@@ -1,0 +1,37 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "My garage",
+    "established": 2089,
+    "active": true,
+    "topFlavours": [{
+        "name": "Rainbow",
+        "calories": 2000,
+        "type": "ice-cream",
+        "ingredients": ["fruit", "rainbows", "sprinkles"],
+        "image": "https://emmasauve.github.io/lab4/images/chocolate-mint.svg"
+    }, {
+        "name": "Sonic",
+        "calories": 12,
+        "type": "sherbert",
+        "ingredients": ["blueberry", "green apple", "chilli"],
+        "image": "https://emmasauve.github.io/lab4/images/peach-mango.svg"
+    }, {
+        "name": "Mango-cheese",
+        "calories": 500,
+        "type": "ice-cream",
+        "ingredients": ["Mango", "Cream", "Cheese"],
+        "image": "https://emmasauve.github.io/lab4/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Fishy Surprise",
+        "calories": 5000000,
+        "type": "ice-cream",
+        "ingredients": ["fish", "anchovies", "salt water"],
+        "image": "https://emmasauve.github.io/lab4/images/ice-cream-xtra2.svg"
+    }, {
+        "name": "Lemon",
+        "calories": 788,
+        "type": "sherbert",
+        "ingredients": ["lemons", "ice", "strawbery"],
+        "image": "https://emmasauve.github.io/lab4/images/peach-mango.svg"
+    }]
+}
